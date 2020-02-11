@@ -1,0 +1,1 @@
+print("Destroy the Bourgoisie!!")
